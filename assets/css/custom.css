@@ -32,3 +32,20 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+.newname {
+  color: #3d3e40;
+}
+
+.button.alt.scrolly.big {
+font-style: italic;
+font-weight: 400;
+}
+
+.button.alt {
+  font-weight: 400;
+}
+
+.coloredhead {
+  color: #3d3e40;
+}
